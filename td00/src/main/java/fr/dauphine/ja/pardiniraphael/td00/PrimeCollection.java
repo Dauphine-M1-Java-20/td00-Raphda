@@ -40,7 +40,7 @@ public class PrimeCollection
 	
 	public static void main(String[] args) {
 		PrimeCollection liste = new PrimeCollection();
-		liste.initRandom(100, 1000);
+		liste.initRandom(100, 2000);
 		liste.printPrimes();
 		
 	}
