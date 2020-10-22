@@ -49,8 +49,31 @@ ____________|
 
 8. Ouvre les classes associées
 
+
+TD00 BIS
+
 ____________
-Exercice 4  |
+Exercice 1  |
 ____________|
+
+5. On observe les modification effectuées.
+
+8. e333c7bb2b42fee6ba84b5f29c06b38378736857 
+
+____________
+Exercice 2  |
+____________|
+
+3) Les deux branches sont vertes (master et remote/origin/master)
+
+5) Il y a un conflit.
+
+6) On retrouve le fichier sans les modifications apportées.
+
+____________
+Exercice 3  |
+____________|
+
+2) On observe un barre verte. On observe ensuite une barre rouge. La method assertTrue() évalue l'expression booléenne passée en paramètre et renvoie True si l'expression est vraie.
 
 
